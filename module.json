@@ -26,6 +26,6 @@
     }
   ],
   "url": "https://github.com/Azimuthss/foundryvtt-vehicles-and-mechanisms",
-  "manifest": "https://github.com/Azimuthss/foundryvtt-vehicles-and-mechanisms/blob/master/module.json",
+  "manifest": "https://raw.github.com/Azimuthss/foundryvtt-vehicles-and-mechanisms/blob/master/module.json",
   "download": "https://github.com/Azimuthss/foundryvtt-vehicles-and-mechanisms/archive/refs/tags/v0.4.2.zipx"
 }
