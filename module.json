@@ -3,9 +3,9 @@
   "title": "Vehicles and Mechanisms",
   "description": "<p>Adds a way to control multiple scene elements (tokens, tiles, walls, and so on) as a single unit, so that they all move and rotate at once. The concept is flexible and can be used for general automation, traps, or other mechanisms with moving parts.</p><p>See page at URL below for full usage instructions.</p>",
   "author": "grandseiken",
-  "version": "0.4.1",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
+  "version": "0.4.2",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
   "dependencies": [
     {
       "type": "module",
@@ -25,7 +25,7 @@
       "path": "lang/ja.json"
     }
   ],
-  "url": "https://github.com/grandseiken/foundryvtt-vehicles-and-mechanisms",
-  "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-vehicles-and-mechanisms/master/module.json",
-  "download": "https://github.com/grandseiken/foundryvtt-vehicles-and-mechanisms/archive/v0.4.1.zip"
+  "url": "https://github.com/Azimuthss/foundryvtt-vehicles-and-mechanisms",
+  "manifest": "https://github.com/Azimuthss/foundryvtt-vehicles-and-mechanisms/blob/master/module.json",
+  "download": "https://github.com/Azimuthss/foundryvtt-vehicles-and-mechanisms/archive/refs/tags/v0.4.2.zipx"
 }
